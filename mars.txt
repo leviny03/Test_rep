@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Mars is a planet. It is very cold. So cold. Dracula appears
-but then he flies away. testing this again
+but then he flies away for a while.
+>>>>>>> 7d20e3b6bf86649a79c0d4d3023f14ec2f051f13
